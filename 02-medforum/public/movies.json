@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Drzewa przy drodze",
+    "duration": "00:00:15",
+    "link": "https://mfstorage.s3.eu-central-1.amazonaws.com/rekrutacja-2022/filmy/movie1.mp4"
+  },
+  {
+    "id": 2,
+    "title": "W oczekiwaniu na pociąg",
+    "duration": "00:00:32",
+    "link": "https://mfstorage.s3.eu-central-1.amazonaws.com/rekrutacja-2022/filmy/movie2.mp4"
+  },
+  {
+    "id": 3,
+    "title": "Sztuka a agroturystyka",
+    "duration": "00:00:09",
+    "link": "https://mfstorage.s3.eu-central-1.amazonaws.com/rekrutacja-2022/filmy/movie3.mp4"
+  },
+  {
+    "id": 4,
+    "title": "Halloween a bezpieczeństwo twoich dzieci",
+    "duration": "00:00:17",
+    "link": "https://mfstorage.s3.eu-central-1.amazonaws.com/rekrutacja-2022/filmy/movie4.mp4"
+  }
+]
